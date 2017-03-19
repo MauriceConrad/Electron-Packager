@@ -1,6 +1,6 @@
 # Electron Packager
 
-A Electron packager that packages you .app bundle smaller than 1 MB.
+A Electron packager that packages your .app bundle smaller than 1 MB.
 
 ## How does it works?
 

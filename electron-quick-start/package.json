@@ -1,0 +1,22 @@
+{
+	"name": "electron-quick-start",
+	"version": "1.0.0",
+	"description": "A minimal Electron application",
+	"keywords": [
+		"Electron",
+		"quick",
+		"start",
+		"tutorial",
+		"demo"
+	],
+	"license": "CC0-1.0",
+	"author": "GitHub",
+	"main": "main.js",
+	"repository": {},
+	"scripts": {
+		"start": "electron ."
+	},
+	"devDependencies": {
+		"electron-prebuilt": "^1.4.1"
+	}
+}

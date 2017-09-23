@@ -1,0 +1,15 @@
+{
+  "electron": {
+    "version": "v1.7.5",
+    "destination": "~/Library/Electron",
+    "bundle": "Electron.app",
+    "resources": [
+      "Frameworks/Electron Framework.framework",
+      "Frameworks/Squirrel.framework",
+      "Frameworks/Mantle.framework",
+      "Frameworks/ReactiveCocoa.framework",
+      "Resources/electron.asar"
+    ]
+  },
+  "executable": "MacOS/Electron"
+}
